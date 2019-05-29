@@ -1,6 +1,8 @@
 {
   "name": "kotejeux",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "411c1b20"
 }
